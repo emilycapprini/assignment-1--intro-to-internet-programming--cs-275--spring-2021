@@ -1,0 +1,29 @@
+strong {
+	font-weight: bold;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 32px;
+	margin: 20px 0;
+}
+
+h2 {
+	margin: 20px;
+}
+
+ol {
+	margin: 20px;
+	margin-left: 40px;
+	list-style-type: lower-roman;
+	line-height: 1.4;
+}
+
+p {
+	margin: 20px;
+	margin-left: 40px;
+	line-height: 1.4;
+}
