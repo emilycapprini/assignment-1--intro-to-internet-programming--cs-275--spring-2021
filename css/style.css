@@ -13,12 +13,13 @@ h1 {
 
 h2 {
 	margin: 20px;
+	font-size: 24px;
 }
 
 ol {
 	margin: 20px;
-	margin-left: 40px;
-	list-style-type: lower-roman;
+	margin-left: 60px;
+	list-style-type: upper-roman;
 	line-height: 1.4;
 }
 
