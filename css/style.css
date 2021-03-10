@@ -18,7 +18,7 @@ h2 {
 
 ol {
 	margin: 20px;
-	margin-left: 60px;
+	margin-left: 80px;
 	list-style-type: upper-roman;
 	line-height: 1.4;
 }
@@ -27,4 +27,8 @@ p {
 	margin: 20px;
 	margin-left: 40px;
 	line-height: 1.4;
+}
+
+* {
+	background-color: pink;
 }
