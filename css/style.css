@@ -19,6 +19,8 @@ h2 {
 ol {
 	margin: 20px;
 	margin-left: 80px;
+	margin-right: 10%;
+	margin-bottom: 50px;
 	list-style-type: upper-roman;
 	line-height: 1.4;
 }
